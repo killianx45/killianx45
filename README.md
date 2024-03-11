@@ -7,7 +7,7 @@ Web Developer
 I am a student passionate about code and everything it surrounds
 
 *   🌍  I'm based in France
-*   🖥️  See my portfolio at [https://killian-jeuffroy.fr](http://killian-jeuffroy.fr)
+*   🖥️  See my portfolio at [[https://killian-jeuffroy.fr](http://killian-jeuffroy.fr)](https://killianx45.github.io/portfolio_web2024/)
 *   🧠  I'm learning Python, Symfony, React JS
 
 Skills 
